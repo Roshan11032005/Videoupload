@@ -1,6 +1,5 @@
 streamlit
 moviepy
---upgrade pip
 gtts
 SpeechRecognition
 google-generative-ai

@@ -4,4 +4,4 @@ moviepy
 gtts
 SpeechRecognition
 requests
-git+https://github.com/google/google-generative-ai
+

@@ -4,3 +4,4 @@ gtts
 SpeechRecognition
 google-generative-ai
 requests
+--upgrade pip

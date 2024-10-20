@@ -1,7 +1,7 @@
-pip>=24.2  # Upgrades pip to the latest version
+pip>=24.2
 streamlit
 moviepy
 gtts
 SpeechRecognition
-google-generative-ai
 requests
+git+https://github.com/google/google-generative-ai

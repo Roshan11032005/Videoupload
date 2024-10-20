@@ -1,0 +1,6 @@
+streamlit
+moviepy
+gtts
+SpeechRecognition
+google-generative-ai
+requests

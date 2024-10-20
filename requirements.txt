@@ -1,4 +1,5 @@
 streamlit
+pip install --upgrade pip
 moviepy
 gtts
 SpeechRecognition
